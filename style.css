@@ -22,7 +22,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 2.5rem 1rem;
+  padding: 4.5rem 1rem;
   margin: 0;
 }
 
@@ -133,9 +133,7 @@ h1 {
 }
 
 @media (min-width: 75em){
-  body{
-    padding: 4.5rem 1rem;
-  }
+  
   #testimonial-grid{
     grid-template-columns: repeat(4, 1fr);
     grid-template-areas: 
