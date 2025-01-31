@@ -104,6 +104,9 @@ body {
   
 }
 
+h1 {
+  display:  none;
+}
 #testimonial-grid {
   max-inline-size: clamp(20.438rem, 3.162rem + 73.709vw, 69.5rem);
   display: grid;
